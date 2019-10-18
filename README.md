@@ -14,8 +14,9 @@ MQTT server bych doporučoval mít jako součást [Home Assistant](https://www.h
 ##### Upozornění: IR Shield použitý při workshopu má změněný pin pro vysílací diody. Původně se vysílalo na pinu D3, nyní se vysílá na D4. Můžete ho buď přepájet zpět na zadní strane desky, nebo změnit v kodu pro OpenMQTTGateway.
 
 
-## 📝 Zdroje
-[Zigbee to MQTT](https://www.zigbee2mqtt.io/) Další výborná brána, ale vyžaduje specialní USB dongle s nahraným firmwarem. Budu prodávat pár předprogramovaných kousků za lidovou cenu.
-[OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) Mimo IR podporuje i RF což je ještě zajímavější.
-
+## 📝 Kam dál
+[Zigbee to MQTT](https://www.zigbee2mqtt.io/) Další výborná brána, ale vyžaduje specialní USB dongle s nahraným firmwarem. Budu prodávat pár předprogramovaných kousků za lidovou cenu.<br>
+[OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) Mimo IR podporuje i RF což je ještě zajímavější.<br>
+[Jiří Vyorálek](https://blog.vyoralek.cz/stitek/homeassistant/) Pěkný blok nejen o [instalaci](https://blog.vyoralek.cz/iot/centrum-chytre-domacnosti-homeassistant-hass-io-1-cast/) Home Assistenta, ale spoustě dalších věcí. <br>
+[FB Skupina Home Assistant - Hassio chytrý dům CZ/SK](https://www.facebook.com/groups/2232679967058877/) Skupina okolo Home Assistanta v CZ/SK.
 
