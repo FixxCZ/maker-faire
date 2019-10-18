@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20" align="center" src="https://github.com/FixxCZ/maker-faire/blob/master/img/Brno_MMF_Logo.png" alt="logo"/>
+  <img width="700" align="center" src="https://github.com/FixxCZ/maker-faire/blob/master/img/Brno_MMF_Logo.png" alt="logo"/>
 </p>
 <h1 align="center">Workshop Domací Automatizace</h1>
 
