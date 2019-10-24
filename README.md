@@ -4,7 +4,8 @@
 <h1 align="center">Workshop Domací Automatizace</h1>
 
 
-# V tydnu po maker faire sem nahraju finalni verze pouzitych kodu.
+### Update 24.10.2019
+[Vlasta daj na svuj github](https://github.com/mensikv/ESP8266_IR_Master) vylepsenou verzi kodu kterou si muzete nahrat do svych zarizeni. 
 
 ## Workshop
 Po workshopu na Maker Faire vám v rukou zůstal klon [Wemosu D1 mini](https://wiki.wemos.cc/products:d1:d1_mini) a [IR Shield](https://wiki.wemos.cc/products:d1_mini_shields:ir_controller_shield). D1 mini je základním stavebním kamenem pro libovolný chytrý obvod, nebo senzor. Výše najdete zdrojové kódy použité během workshopu.
